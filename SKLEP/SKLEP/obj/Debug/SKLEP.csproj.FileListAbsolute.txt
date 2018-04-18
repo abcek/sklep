@@ -1,0 +1,16 @@
+Z:\sklep\SKLEP\SKLEP\obj\Debug\SKLEP.csprojResolveAssemblyReference.cache
+Z:\sklep\SKLEP\SKLEP\obj\Debug\SKLEP.FormStart.resources
+Z:\sklep\SKLEP\SKLEP\obj\Debug\SKLEP.Properties.Resources.resources
+Z:\sklep\SKLEP\SKLEP\obj\Debug\SKLEP.csproj.GenerateResource.Cache
+Z:\sklep\SKLEP\SKLEP\obj\Debug\SKLEP.csproj.CoreCompileInputs.cache
+Z:\sklep\SKLEP\SKLEP\bin\Debug\SKLEP.exe.config
+Z:\sklep\SKLEP\SKLEP\bin\Debug\SKLEP.exe
+Z:\sklep\SKLEP\SKLEP\bin\Debug\SKLEP.pdb
+Z:\sklep\SKLEP\SKLEP\bin\Debug\EntityFramework.dll
+Z:\sklep\SKLEP\SKLEP\bin\Debug\EntityFramework.SqlServer.dll
+Z:\sklep\SKLEP\SKLEP\bin\Debug\EntityFramework.xml
+Z:\sklep\SKLEP\SKLEP\bin\Debug\EntityFramework.SqlServer.xml
+Z:\sklep\SKLEP\SKLEP\obj\Debug\SKLEP.exe
+Z:\sklep\SKLEP\SKLEP\obj\Debug\SKLEP.pdb
+Z:\sklep\SKLEP\SKLEP\obj\Debug\SKLEP.GridLaptopy.resources
+Z:\sklep\SKLEP\SKLEP\obj\Debug\SKLEP.Label.resources
